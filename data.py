@@ -8,7 +8,7 @@ from xlutils.copy import copy
 import xlrd
 import os
 import math
-import codecs
+# import codecs
 
 f = codecs.open('111Record.txt', mode='r', encoding='utf-8')  # 打开txt文件，以‘utf-8'编码读取
 line = f.readline()  # 以行的形式进行读取文件
