@@ -6,7 +6,6 @@ import pandas as pd
 import xlwt
 from xlutils.copy import copy
 import xlrd
-import os
 import math
 import codecs
 
